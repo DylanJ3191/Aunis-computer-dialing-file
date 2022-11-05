@@ -1,4 +1,4 @@
-address = {"Glyph 1", "Glyph 2", "Glyph 3", "Glyph 4", "Glyph 5", "Glyph 6", "Glyph 7(optional, if unused delete)", "Glyph 8(optional, if unused delete)", "Point of Origin"}
+address = {"Glyph 1", "Glyph 2", "Glyph 3", "Glyph 4", "Glyph 5", "Glyph 6", "Glyph 7(optional, if unused delete)", "Glyph 8(optional, if unused delete)", "Point of Origin"} -- Replace 'glyph #' with '[Name of glyph (eg. Triangulum)]'
 
 c = require("component")
 event = require("event")
